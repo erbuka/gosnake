@@ -15,8 +15,12 @@
     <preference name="fullscreen" value="true" />
     <preference name="DisallowOverscroll" value="true" />
 
+    <!-- Android-->
+    <preference name="android-minSdkVersion" value="24" />
+
     <plugin name="cordova-plugin-whitelist" spec="1" />
-    <plugin name="cordova-plugin-media"/>
+    <plugin name="cordova-plugin-media" source="npm"/>
+    <plugin name="cordova-plugin-device-orientation" source="npm" />
 
     <access origin="*" />
 
