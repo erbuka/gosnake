@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Snake",
+  "short_name": "Snake",
+  "version": "io.cordova.hellocordova",
+  "description": "A simple snake game",
+  "author": "Andrea Bucaletti",
+  "icons": [],
+  "orientation": "landscape",
+  "start_url": "index.html"
+}
